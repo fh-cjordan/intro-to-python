@@ -7,15 +7,14 @@ dependencies:
 - nbconvert=5.5
 - widgetsnbextension=3.5
 # Python Kernel
+- python=3.8
 - ipykernel
 - ipywidgets
-- ipyleaflet
 - altair
 - bqplot
 - dask
 - matplotlib>=3.1
 - pandas>=1
-- python=3.8
 - scikit-learn
-- seaborn=0.9
+- seaborn
 - pyyaml
